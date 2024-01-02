@@ -2,11 +2,11 @@
 
 ## Data Used
 
-act2019 - List of ACT information by state in 2019
-sat2019 - List of SAT information by state in 2019
-sat_act_by_college - Information relating SAT and ACT scores to college admissions
-collegescorecard2019locationinfo - Location information from colleges, derived from pulling location information from 2019 College Scorecard (https://collegescorecard.ed.gov/data/)
-satact2019 - Merged dataset derived from act2019 and sat2019
+act2019 - List of ACT information by state in 2019\
+sat2019 - List of SAT information by state in 2019\
+sat_act_by_college - Information relating SAT and ACT scores to college admissions\
+collegescorecard2019locationinfo - Location information from colleges, derived from pulling location information from 2019 College Scorecard (https://collegescorecard.ed.gov/data/)\
+satact2019 - Merged dataset derived from act2019 and sat2019\
 satactbycollegewithlocation - Merged dataset derived from sat_act_by_college and collegescorecard2019locationinfo
 
 ## Problem Statement
