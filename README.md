@@ -42,7 +42,7 @@ As a high school guidance counselor in the state of Maine, I have observed trend
 |act_total_25th_percentile|float|satactbycollegewithlocation|This is the 25th percentile value for ACT scores of accepted students at the institution|
 |act_total_75th_percentile|float|satactbycollegewithlocation|This is the 75th percentile value for ACT scores of accepted students at the institution|
 |act_school_avg|float|satactbycollegewithlocation|This is the average ACT score for this institution|
-|achievable|bool|satactbycollegewithlocation|This boolean determines whether, based on average Maine test scores, the institution may accept a Maine student|
+|should_scores_be_submitted|bool|satactbycollegewithlocation|This boolean determines whether, based on average Maine test scores, the institution may accept a Maine student|
 
 ## Summary of Analysis
 
